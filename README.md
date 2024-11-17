@@ -6,6 +6,11 @@ Database project in Oracle Database that includes logical and relational model d
 1. Glockbuster Database
 2. Netflix Database
 
+Proyecto de base de datos en Oracle Database que incluye diseño de modelos lógicos y relacionales, implementación con comandos DDL, inserción de datos mediante DML y consultas de datos mediante DQL. Desarrollado y administrado en Oracle SQL Developer para un análisis y administración eficientes.
+
+1. Base de datos Glockbuster
+2. Base de datos Netflix
+
 ## Archivos
 
 ### 1. Glockbuster Database
